@@ -1,3 +1,3 @@
-#Shopping List
+# Shopping List
 
-simple shopping list
+Simple Shopping List
